@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ファイナルボーイフレンド (2021)",
+  "base_artist": "ハンブレッダーズ",
+  "createdAt": "2025-12-04T19:21:04.628777Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファイナルボーイフレンド",
+      "artist": "ハンブレッダーズ",
+      "has_synced": false,
+      "path": "select/pl_01_ファイナルボーイフレンド_ハンブレッダーズ.txt"
+    }
+  ]
+}
